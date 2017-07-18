@@ -1,6 +1,6 @@
 # Basic Webpack (just bundling, no loaders)
 
->This is a sister repository to my [Getting Started with Webpack](https://samuelscheiderich.com/2017/04/11/getting-started-with-webpack/) article.
+>This is a sister repository to my [Getting Started with Webpack](https://samuelscheiderich.com/2017/04/08/getting-started-with-webpack/) article.
 
 This is an example or boilerplate for using Webpack. The core functionality is here, which is to take ES module or CommonJS module source files and "bundle" them into a single distributable js file to be used in website/webapp.
 
